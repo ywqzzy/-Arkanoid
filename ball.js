@@ -1,5 +1,5 @@
 var Ball = function(game) {
-	 var o = game.imageByName('ball')
+	  var o = game.imageByName('ball')
 /*	  var o = {
 		    image: image,
 				x: 100,
